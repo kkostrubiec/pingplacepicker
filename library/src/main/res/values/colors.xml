@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
 
-    <color name="colorPrimary" tools:override="false">@color/material_bluegrey500</color>
-    <color name="colorPrimaryDark" tools:override="false">@color/material_bluegrey800</color>
-    <color name="colorOnPrimary" tools:override="false">@color/material_white</color>
+    <color name="colorPrimary" tools:override="true">@color/material_bluegrey500</color>
+    <color name="colorPrimaryDark" tools:override="true">@color/material_bluegrey800</color>
+    <color name="colorOnPrimary" tools:override="true">@color/material_white</color>
 
-    <color name="colorSecondary" tools:override="false">@color/material_pink500</color>
-    <color name="colorSecondaryDark" tools:override="false">@color/material_pink800</color>
-    <color name="colorOnSecondary" tools:override="false">@color/material_white</color>
+    <color name="colorSecondary" tools:override="true">@color/material_pink500</color>
+    <color name="colorSecondaryDark" tools:override="true">@color/material_pink800</color>
+    <color name="colorOnSecondary" tools:override="true">@color/material_white</color>
 
-    <color name="colorBackground" tools:override="false">@color/material_grey200</color>
-    <color name="colorOnBackground" tools:override="false">@color/material_black</color>
+    <color name="colorBackground" tools:override="true">@color/material_grey200</color>
+    <color name="colorOnBackground" tools:override="true">@color/material_black</color>
 
-    <color name="colorSurface" tools:override="false">@color/material_white</color>
-    <color name="colorOnSurface" tools:override="false">@color/material_black</color>
+    <color name="colorSurface" tools:override="true">@color/material_white</color>
+    <color name="colorOnSurface" tools:override="true">@color/material_black</color>
 
-    <color name="textColorPrimary" tools:override="false">@color/material_on_surface_emphasis_high_type</color>
-    <color name="textColorSecondary" tools:override="false">@color/material_on_surface_emphasis_medium</color>
+    <color name="textColorPrimary" tools:override="true">@color/material_on_surface_emphasis_high_type</color>
+    <color name="textColorSecondary" tools:override="true">@color/material_on_surface_emphasis_medium</color>
 
-    <color name="colorMarker" tools:override="false">@color/material_red400</color>
-    <color name="colorMarkerInnerIcon" tools:override="false">@color/material_white</color>
+    <color name="colorMarker" tools:override="true">@color/material_red400</color>
+    <color name="colorMarkerInnerIcon" tools:override="true">@color/material_white</color>
 
     <!-- Do not change -->
     <color name="places_autocomplete_prediction_primary_text">@color/textColorPrimary</color>
